@@ -10,7 +10,7 @@ To be honest, until today the choice of this course was a mystery, I've always s
 
 Anyway, I hope I can find my way in technology and help people with it somehow.
 
-# Detailed Information
+## Detailed Information
 
 * **Name:** Leonardo Vinicius
 * **Age:** 24
