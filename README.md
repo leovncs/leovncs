@@ -15,5 +15,5 @@ Anyway, I hope I can find my way in technology and help people with it somehow.
 * **Name:** Leonardo Vinicius
 * **Age:** 24
 * **Living in:** Curitiba - PR, Brazil
-* **Stack:** JavaScript - Bootstrap - Python - Pandas
+* **Stack:** Java, JDBC, JPA, Spring Boot, MongoDB
 * **University:** International Relations - Universidade Positivo
