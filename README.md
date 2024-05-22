@@ -11,7 +11,7 @@ Currently, I am studying Systems Analysis and Development, where I have the oppo
 ## Detailed Information
 
 * **Name:** Leonardo Vinicius
-* **Age:** 24
+* **Age:** 25
 * **Living in:** Curitiba - PR, Brazil
-* **Stack:** Java, Spring Boot, MySQL
+* **Stack:** Java, Spring Boot, SQL
 * **University:** Systems Analysis and Development - UNICURITIBA
